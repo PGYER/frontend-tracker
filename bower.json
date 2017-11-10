@@ -1,0 +1,23 @@
+{
+  "name": "frontend-tracker",
+  "description": "Monitoring frontend errors, send error to server automanticly.",
+  "main": "dist/tracker.js",
+  "authors": [
+    "Pgyer"
+  ],
+  "license": "GPL-3.0",
+  "keywords": [
+    "frontend",
+    "error",
+    "monitoring",
+    "performance"
+  ],
+  "homepage": "https://github.com/Pgyer/frontend-tracker",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}

@@ -1,0 +1,32 @@
+{
+  "name": "frontend-tracker",
+  "version": "0.1.1",
+  "description": "Monitoring frontend errors, send error to server automanticly.",
+  "main": "dist/tracker.js",
+  "scripts": {
+    "test": "null"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/Pgyer/frontend-tracker.git"
+  },
+  "keywords": [
+    "frontend",
+    "error",
+    "monitoring",
+    "performance"
+  ],
+  "author": "Pgyer",
+  "license": "GPL-3.0",
+  "devDependencies": {
+    "eslint-config-standard": "^10.2.1",
+    "eslint-plugin-import": "^2.8.0",
+    "eslint-plugin-node": "^5.2.1",
+    "eslint-plugin-promise": "^3.6.0",
+    "eslint-plugin-standard": "^3.0.1",
+    "grunt": "^1.0.1",
+    "grunt-cli": "^1.2.0",
+    "grunt-contrib-uglify": "^3.1.0",
+    "grunt-eslint": "^20.1.0"
+  }
+}
